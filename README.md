@@ -1,1 +1,6 @@
-hi my secons reposatory is here
+name-sadhana singh
+age-30
+favourite color-blue
+fávourite language- hindi
+fav. rest.-
+all indian restaurents.
